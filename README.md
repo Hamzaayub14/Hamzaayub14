@@ -1,6 +1,6 @@
 ### Hi there, I'm Hamza Ayub 👋
 
-I'm a passionate **backend developer** with strong expertise in **MERN** (MongoDB, Express, React, Node.js) and **Laravel** frameworks. I've worked with a range of SQL-based databases, including **SQL Server**, **MySQL**, and **PostgreSQL**. Recently, I've been diving deep into **NestJS**, exploring the backend world with TypeScript and building powerful APIs.
+I'm a passionate **backend developer** with strong expertise in **MERN** (MongoDB, Express, React, Node.js) and **Laravel**. I've worked with a range of SQL-based databases, including **SQL Server**, **MySQL**, and **PostgreSQL**. Recently, I've been diving deep into **NestJS**, exploring the backend world with TypeScript and building powerful APIs.
 
 ![Backend Developer GIF](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
 
